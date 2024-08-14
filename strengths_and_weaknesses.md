@@ -2,3 +2,4 @@
 1. Git allows for easy collaboration
 2. Git provides a full history of project changes
 # Weaknesses
+1. Git can have a steep learning curve
